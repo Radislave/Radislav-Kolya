@@ -24,6 +24,9 @@ namespace test
         {
             InitializeComponent();
             изменяю изменения
+
+
+
         }
     }
 }
