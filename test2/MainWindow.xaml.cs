@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace test
+namespace test2
 {
     /// <summary>
     /// Логика взаимодействия для MainWindow.xaml
@@ -23,6 +23,9 @@ namespace test
         public MainWindow()
         {
             InitializeComponent();
+            Console.WriteLine("Сдаю Лабу!");
         }
+
+     
     }
 }
