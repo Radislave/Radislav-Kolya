@@ -24,6 +24,7 @@ namespace test2
         {
             InitializeComponent();
             Console.WriteLine("Сдаю Лабу!");
+            Console.WriteLine("Test GitHub");
         }
 
      
